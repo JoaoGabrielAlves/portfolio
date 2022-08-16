@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        erieBlack: '#1E1E1E',
+        darkGunmetal: '#1D1E2B',
+        gunMetal: '#2F3039',
         turquoise: '#41E4BD',
         paleBlue: '#ADF1ED',
         water: '#C6FAF7',
